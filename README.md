@@ -9,7 +9,7 @@
 [![Responsive](https://img.shields.io/badge/Design-Responsive-success)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-🔗 **[Live Demo](https://your-paytm-clone-demo.netlify.app/)** • 📚 **[Documentation](#documentation)** • 🐛 **[Report Bug](https://github.com/jatinagrahari/paytm-clone/issues)** • ⭐ **[GitHub](https://github.com/jatinagrahari/paytm-clone)**
+🔗 **[Live Demo](https://clone-pytm.netlify.app/)** • 📚 **[Documentation](#documentation)** • 🐛 **[Report Bug](https://github.com/jatinagrahari/paytm-clone/issues)** • ⭐ **[GitHub](https://github.com/jatinagrahari/paytm-clone)**
 
 ---
 
